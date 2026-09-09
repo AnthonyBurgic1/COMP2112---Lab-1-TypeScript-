@@ -1,1 +1,0 @@
-# COMP2112---Lab-1-TypeScript-
