@@ -1,3 +1,4 @@
+const randomNumber: number = Math.floor(Math.random() * 10) + 1;
 function calculate(): void {
     // get form inputs
     const xInput = document.getElementById('x') as HTMLInputElement;
